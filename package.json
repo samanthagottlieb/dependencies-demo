@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@elastic/eui": "^41.3.0"
+    "@elastic/eui": "^41.3.0",
+    "lodash": "3.10.1"
   }
 }
